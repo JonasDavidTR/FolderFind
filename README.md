@@ -18,8 +18,9 @@ Lê e lista pastas comuns de um arquivo .txt.
 
 ## Tecnologias Utilizadas:
 
-Java
-HttpURLConnection
-BufferedReader
+Java,
+HttpURLConnection,
+BufferedReader,
 Expressões Regulares
+
 Este projeto é útil para desenvolvedores e administradores de sistemas que precisam explorar a estrutura de diretórios de sites e verificar a existência de URLs específicas.

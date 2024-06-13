@@ -1,0 +1,15 @@
+/admin
+/login
+/wp-admin
+/wp-content
+/wp-includes
+/uploads
+/images
+/css
+/js
+/about
+/contact
+/services
+/blog
+/news
+/sitemap.xml

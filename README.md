@@ -4,19 +4,19 @@ Este projeto Java é uma ferramenta para encontrar e listar diretórios de um si
 
 # Funcionalidades:
 
-# Verificação de URLs:
+## Verificação de URLs:
 
 Verifica se uma URL é válida e acessível usando HttpURLConnection.
 
-# Extração de URLs:
+## Extração de URLs:
 
 Extrai URLs de uma página web fornecida pelo usuário utilizando expressões regulares para encontrar URLs no conteúdo HTML.
 
-# Leitura de Pastas Comuns:
+## Leitura de Pastas Comuns:
 
 Lê e lista pastas comuns de um arquivo .txt.
 
-# Tecnologias Utilizadas:
+## Tecnologias Utilizadas:
 
 Java
 HttpURLConnection

@@ -12,10 +12,6 @@ Verifica se uma URL é válida e acessível usando HttpURLConnection.
 
 Extrai URLs de uma página web fornecida pelo usuário utilizando expressões regulares para encontrar URLs no conteúdo HTML.
 
-## Leitura de Pastas Comuns:
-
-Lê e lista pastas comuns de um arquivo .txt.
-
 ## Tecnologias Utilizadas:
 
 Java,
